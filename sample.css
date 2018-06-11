@@ -24,3 +24,12 @@ width:14%;
 border-style:none;
 border-radius:3px;
 }
+.but1{
+background-color:#4CA510;
+color:white;
+height:30px;
+width:14%;
+border-style:none;
+border-radius:3px;
+float:right;
+}
